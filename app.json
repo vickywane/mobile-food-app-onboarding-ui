@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "foodie-ui-onboarding",
+    "slug": "foodie-ui-onboarding",
+    "version": "1.0.0",
+    "splash" : {
+      "image": "./src/assets/splash-screen.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "foodie-ui-onboarding"
+}
